@@ -9,4 +9,4 @@ function addLoadEvent(func){
 		}
 	}
 }
-addLoadEvent(postionMessage);
+addLoadEvent(positionMessage);
